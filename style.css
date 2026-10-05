@@ -71,7 +71,7 @@ img {
 .flex-parent {
     display: flex;
     margin-left: 60px;
-    padding-top: 50px;
+    padding-top: 150px;
     justify-content: space-between;
     margin-right: 70px;
     gap: 40px;
@@ -107,7 +107,7 @@ img {
 
 .main2 img {
     /* padding-right: 100px; */
-    margin-left: 100px;
+    margin-left: 150px;
     /* margin-top: 10px; */
 }
 
@@ -311,6 +311,7 @@ img {
 
 .sublevel1 img {
     border-radius: 30px;
+    object-fit: cover;
 }
 
 .sublevel2 {
